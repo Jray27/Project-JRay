@@ -121,7 +121,7 @@ A summary of the access policies in place can be found in the table below.
 
 ### Elk Configuration
 
-Ansible was used to automate configuration of the ELK machine. No configuration was performed manually, which is advantageous because...
+Ansible was used to automate configuration of the ELK machine. No configuration was performed manually, which is advantageous because..
 
 The playbook implements the following tasks: it give you the ability to deploy several servers using one single playbook.
 -Install docker.io
